@@ -1,2 +1,9 @@
-# cateddracompartida
-Es una calculadora para calcular medidas inaccesibles
+CONSIGNAS
+1- INVESTIGACION
+2- DISEÑO
+3- CONSTRUCCION
+4- TRABAJO DE CAMPO
+5- CALCULOS
+6- REFLEXION
+
+#Investigacion: 
